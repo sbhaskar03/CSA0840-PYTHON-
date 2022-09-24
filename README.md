@@ -1,21 +1,11 @@
 # CSA0840-PYTHON-
-1.Sum SQUARE
-2.COUNT SORTED VOWEL STRING
-3.HAPPY NUMBER
-4.ISOMORPHIC
-5.LOAVES OF BREAD
-6.MAX AREA
-7.PALINDROME
-8.VALID NUMBER
-9. 
-10.modify string 
-11.climb stairs
-12.leap year
-13.words in sentence 
-14.merge two sorted list 
-15.basic caluculator 
-16.keywords 
-17.parentheses 
-18.regular expression
-19.date season
-20.remove common words
+DAY 1
+isomorphic odd,even Happy number palindrome bread problem maximum area vowels valid number guests modify string 
+DAY 2
+climbing leap year maximum number of words found Merge Two Sorted Lists Basic Calculator 6th Generate Parentheses string s and a seasons remove words
+DAY 3
+trading Project manager good pairs. Add Binary minimum number of jumps REVERSE Permutations anagram string s and a operations required 
+DAY 4
+indexed Valid Palindrome minimum number of jumps Remove character in a string Vowel seasons roman to int scramble strings student smaller than the current number
+DAY 5 
+1.Robert problem
