@@ -17,4 +17,4 @@ indexed, student user, smaller than current number, valid palindrome, min number
 
 DAY 5
 
-Robert problem, perfect square number
+last word length, bonus salary, perfect square, robert problem, max index, longest substring
