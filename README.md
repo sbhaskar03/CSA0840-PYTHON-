@@ -16,5 +16,4 @@ DAY 4
 indexed, student user, smaller than current number, valid palindrome, min number of jumps, length of string, vowels are lexicographic, roman to integer, date seasons, scramble string.
 
 DAY 5
-
-last word length, bonus salary, perfect square, robert problem, max index, longest substring
+1 Robert problem 2 perfect square numbers 3 reverse words in string 4 length of the string 5 bonus on salary 6 peak element 7 sum of elements in the nth row 8 Longest Substring 9 NxN
