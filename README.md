@@ -1,20 +1,20 @@
 # CSA0840-PYTHON
 DAY 1
 
-isomorphic odd,even Happy number palindrome bread problem maximum area vowels valid number guests modify string
+isomorphic, sumsquare, Happy number, palindrome, loaves of bread, max area, count sorted vowel string, valid number, guests, modify string.
 
 DAY 2
 
-climbing leap year maximum number of words found Merge Two Sorted Lists Basic Calculator 6th Generate Parentheses string s and a seasons remove words
+climbing stairs, leap year, words in sentence, Merge Two Sorted Lists, Basic Calculator, keyword, Parenthesis, regular expression(1), date season, remove common words in strings.
 
 DAY 3
 
-trading Project manager good pairs. Add Binary minimum number of jumps REVERSE Permutations anagram string s and a operations required
+trading, Project manager, good pairs, Add Binary, max number, mirror image, Permutations, anagram, regular expression(2), word1 to word2.
 
 DAY 4
 
-indexed Valid Palindrome minimum number of jumps Remove character in a string Vowel seasons roman to int scramble strings student smaller than the current number
+indexed, student user, smaller than current number, valid palindrome, min number of jumps, length of string, vowels are lexicographic, roman to integer, date seasons, scramble string.
 
 DAY 5
 
-Robert problem perfect square number
+Robert problem, perfect square number
